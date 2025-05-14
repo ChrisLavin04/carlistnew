@@ -37,6 +37,7 @@ export class CarlistComponent {
         this.getCars();
       }
     );
+    this.getCars();
     return false;
   }
 }
